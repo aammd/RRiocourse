@@ -2,6 +2,7 @@
 ## 29 Sept 2015
 ## that was awesome
 ## i learned a lot
+## the plots were MUITO BOM
 
 # load packages ---------------------------------------
 
